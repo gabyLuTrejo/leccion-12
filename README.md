@@ -1,6 +1,6 @@
 # Comandos Git
 ### git init: para inicializar repositorio
-![GitHub init](https://cdn.tutsplus.com/net/uploads/legacy/476_git/gitinit.jpg)
+![GitHub init](http://oaxacarb.org/images/pig2015/git-init.png)
 
 ### git add: para agregar los documentos que irán en el repositorio
 
@@ -16,10 +16,10 @@
 ![GitHub remote](http://johnriggsdev.com/wp-content/uploads/2015/10/Bash-Git-init.png)
 
 ### git push: para subir los archivos al repositorio creado en GitHub
-![GitHub push](https://cdn.tutsplus.com/net/uploads/legacy/476_git/push2.jpg)
+![GitHub push](https://d186loudes4jlv.cloudfront.net/git/images/git_push.jpg)
 
 ### git status: para checar el estado de los archivos en el repositorio
 ![GitHub status](https://cmtoomey.github.io/img/gitstatus-1435854837-77.gif)
 
 ### Para clonar repositorio
-![GitHub clonar](http://www.technotalkative.com/wp-content/uploads/2013/06/git.png)
+![GitHub clonar](http://techidiocy.com/wp-content/uploads/2013/08/bare-and-non-bare-repository-4.png)
