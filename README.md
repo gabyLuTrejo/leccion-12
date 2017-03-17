@@ -8,12 +8,12 @@
 
 ![GitHub add1](https://chirath02.files.wordpress.com/2016/07/snapshot17.png?w=1200)
 
-### git commit: para dar un
+### git commit: para dar un nombre distintivo a las versiones que se van agregando al repositorio
 ![GitHub commit](https://i0.wp.com/www.geekgumbo.com/wp-content/uploads/2010/05/gitdel5.png)
 
 ### git remote: para enlazar el repositorio local a GitHub
 
-![GitHub remote](http://uscitp.com/wp-content/uploads/2014/10/git-4.jpg)
+![GitHub remote](http://johnriggsdev.com/wp-content/uploads/2015/10/Bash-Git-init.png)
 
 ### git push: para subir los archivos al repositorio creado en GitHub
 ![GitHub push](https://cdn.tutsplus.com/net/uploads/legacy/476_git/push2.jpg)
@@ -22,4 +22,4 @@
 ![GitHub status](https://cmtoomey.github.io/img/gitstatus-1435854837-77.gif)
 
 ### Para clonar repositorio
-![GitHub clonar](https://cdn.tutsplus.com/net/uploads/legacy/476_git/clone.jpg)
+![GitHub clonar](http://www.technotalkative.com/wp-content/uploads/2013/06/git.png)
